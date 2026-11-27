@@ -1,3 +1,8 @@
-verification/
-docs/
+node_modules/
+dist/
+.vercel/
+.env*
 .git/
+verification/
+VERIFICATION.md
+docs/
