@@ -1,5 +1,7 @@
 # Madera · Local workshop
 
+**[Open the live app](https://madera-rebuild.vercel.app)** · [Source code](https://github.com/IgnacioPardo/madera-rebuild)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An independent furniture builder reconstructed from public videos of [Madera by Xavier (Jack)](https://x.com/KMkota0/status/2049574141171241064). An open-source, browser-local reconstruction of the furniture-design workflow, independently implemented in TypeScript and Three.js. It is not affiliated with the original service.
@@ -8,7 +10,7 @@ An independent furniture builder reconstructed from public videos of [Madera by 
 
 ## Run
 
-Requires Node.js 22.12+ (Node.js 24 recommended).
+Requires Node.js 24.
 
 ```sh
 npm ci
